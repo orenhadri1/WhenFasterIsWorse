@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "When Faster Is Worse: Time-Based Metrics Fail Under Energy Constraints"
+authors:
+  - family-names: Hadri
+    given-names: Oren
+doi: 10.5281/zenodo.18164275
+version: 1.0.1
+date-released: 2026-01-06
+
