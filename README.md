@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18164275.svg)](https://doi.org/10.5281/zenodo.18164275)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18189997.svg)](https://doi.org/10.5281/zenodo.18189997)
 
 # When Faster Is Worse: Time-Based Metrics Fail Under Energy Constraints
 
